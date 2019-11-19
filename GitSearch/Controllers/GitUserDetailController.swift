@@ -2,8 +2,8 @@
 //  GitUserDetailController.swift
 //  GitSearch
 //
-//  Created by Sujeet on 10/10/19.
-//  Copyright © 2019 Sujeet. All rights reserved.
+//  Created by Channappa on 10/10/19.
+//  Copyright © 2019 Channappa. All rights reserved.
 //
 
 import UIKit
